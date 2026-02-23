@@ -1,7 +1,7 @@
 # BitGN PAC Handbook
 **BitGN Agent Challenge: Personal & Trustworthy** (BitGN PAC)  
 **Version:** 1.0  
-**Last updated:** 20 Feb 2026 (Vienna time)
+**Last updated:** 23 Feb 2026 (Vienna time)
 
 ## Table of contents
 - [1. What BitGN PAC is](#1-what-bitgn-pac-is)
@@ -169,8 +169,9 @@ These terms are used precisely across docs and the product UI.
 ## 8. Competition rules and fair play
 
 ### Eligibility
-- Open to everyone worldwide
+- Open to everyone worldwide (subject to the BitGN Terms of Service)
 - Free to participate
+- The BitGN Terms of Service include a clause prohibiting participation by sanctioned persons or entities
 
 ### Team rules and collaboration
 - Solo and teams are allowed

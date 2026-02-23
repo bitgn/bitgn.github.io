@@ -2,10 +2,12 @@
 **BitGN Agent Challenge: Personal & Trustworthy** (BitGN PAC)  
 **Audience:** participants, observers, hubs  
 **Version:** 1.0  
-**Last updated:** 19 Feb 2026 (Vienna time)
+**Last updated:** 23 Feb 2026 (Vienna time)
 
 ## Eligibility
-Open to all worldwide. Free participation. Google login required to obtain an API key.
+Open to all worldwide (subject to the BitGN Terms of Service). Free participation. Google login required to obtain an API key.
+
+The BitGN Terms of Service include a clause prohibiting participation by sanctioned persons or entities.
 
 ## Teams and collaboration
 - Solo participants are allowed.

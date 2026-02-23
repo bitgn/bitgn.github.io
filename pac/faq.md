@@ -1,6 +1,6 @@
 # BitGN PAC — Short Public FAQ (Homepage)
 **BitGN Agent Challenge: Personal & Trustworthy** (BitGN PAC)  
-**Last updated:** 20 Feb 2026 (Vienna time)
+**Last updated:** 23 Feb 2026 (Vienna time)
 
 ## What is BitGN PAC?
 BitGN PAC is a free, global competition where you build an autonomous agent and run it against a deterministic, enterprise-grade benchmark in a simulated personal-agent environment.
@@ -9,7 +9,7 @@ BitGN PAC is a free, global competition where you build an autonomous agent and 
 The main event is **April 11, 2026** (schedule anchored to Vienna time). The exact competition window timing will be announced via the newsletter.
 
 ## Who can participate?
-Anyone. Participation is free and remote-first. You’ll need a Google account to sign in and obtain an API key.
+Anyone (subject to the BitGN Terms of Service, including restrictions on sanctioned persons/entities). Participation is free and remote-first. You’ll need a Google account to sign in and obtain an API key.
 
 **Community signal (as of 19 Feb 2026):** 241 users have pre-registered interest across 50 cities/locations.
 
