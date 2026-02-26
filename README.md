@@ -1,5 +1,8 @@
 # BitGN Challenges
 
+## Challenge Indexes
+- PAC: [pac/README.md](pac/README.md)
+
 ## Canonical Links
 - Website: [https://bitgn.com](https://bitgn.com)
 - Updates/newsletter: [https://bitgn.substack.com](https://bitgn.substack.com)
