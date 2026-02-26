@@ -1,19 +1,19 @@
-# Hubs Program Guide (Host a BitGN PAC Hub)
+# Host a BitGN PAC Hub (Hubs Program Guide)
 **BitGN Agent Challenge: Personal & Trustworthy** (BitGN PAC)  
 **Audience:** community organizers, local partners  
 **Version:** 1.0  
 **Last updated:** 20 Feb 2026 (Vienna time)
 
 ## What a hub is
-A hub is a local in-person gathering synchronized with the global BitGN PAC event. Vienna is listed as the top “HQ hub” by default because the organizer is based in Vienna, but hubs can exist worldwide.
+A hub is a local, in-person meetup for people participating in the BitGN PAC competition. Everyone still competes in the same global event and submits to the same leaderboard. The hub just gives people in your city a place to build together. Local hub leaderboards are also available.
+
+Vienna is listed as the “HQ hub” simply because the organizer is based there. Hubs can happen anywhere.
 
 ## What BitGN provides to hubs
-- in-platform proposal flow from `/me` and city interests
-- hub management pages: `/me/hubs/new` and `/me/hubs`
-- approval-gated hub listing on the BitGN platform
-- revisioned listings (approved listing remains public while edits are pending)
-- hub code/QR for on-site check-in attribution
-- local leaderboard view
+- a public hub listing on the BitGN website (approval-based: only approved hubs are shown)
+- a hub page you can manage and update
+- a hub check-in code / QR for on-site attribution (assigned closer to competition day)
+- a local leaderboard view (available on competition day, global + your hub), based on check-ins
 
 ## What hubs must provide
 - venue and capacity
@@ -22,51 +22,46 @@ A hub is a local in-person gathering synchronized with the global BitGN PAC even
 - local logistics and safety readiness
 - optional local sponsors and prizes (hub-managed)
 
-## Hub proposal flow on BitGN platform
-Host proposals are submitted and managed inside BitGN:
-1) Open `/me`.
-2) On an interested city row, click **“I want to host a hub”**.
-3) Complete `/me/hubs/new?city_id=<id>` and submit:
-   - `city_id` (must be one of your interested cities)
-   - `event_slug` (from active events)
-   - `hub_name`
-   - `hub_url` (`http`/`https`)
-   - `venue_size` (free text, e.g. `10-20`)
-   - required compliance attestations (all checked)
-4) Track and edit proposals in `/me/hubs`.
+## How to propose a hub (step by step)
+1. Log into BitGN and go to your profile page.
+2. Add a city where you want to host a hub.
+3. Click “I want to host a hub”.
+4. Fill in the hub form:
+- hub name
+- hub link where you accept registrations 
+- venue size (example: “10–20 people”)
+- optional hub description
+- confirm the required rules
+5. Submit. You can come back later to edit your proposal.
 
-## Listing states in `/me/hubs`
-- `pending`
-- `approved`
-- `changes_pending`
-- `rejected`
-
-## Approval and edit behavior
-- Initial proposal creates a pending listing.
-- First approval makes the listing public.
-- Editing an approved hub creates a new pending revision.
-- While edits are pending, public pages continue to show the last approved revision.
-- If a pending edit is rejected, the approved public listing remains unchanged.
+## What happens after you submit
+- Your hub starts as pending (BitGN reviews it).
+- If approved, it becomes public on the BitGN site.
+- People, who have tagged the venue city as city of interest, will see your hub link in their profiles.
+- If you edit an approved hub later, BitGN reviews the changes, and the public page keeps showing the last approved version until the update is approved.
 
 ## Non-negotiables
 To be listed as an official BitGN PAC Hub, you must agree to:
 - enforce Code of Conduct
 - non-discrimination
 - safety and legality
-- **no charging participants for competition participation**
+- **no charging participants for competition participation** - Optional venue cost-sharing for food/drinks/etc. is fine, but competition participation must be free.
 
 ## Data boundary
 BitGN does not share platform registration data with hubs. Hubs manage their own attendee lists and recruiting processes independently.
 
-## Liability boundary
-BitGN provides the platform and hub listing. Hub events are the hub organizers’ responsibility.
+## Responsibility and liability
+BitGN provides the platform and hub listing. Your hub event is your responsibility as the local organizer. This includes handling on-site incidents and escalating Code of Conduct reports when needed.
 
-## Branding rules
-Use: **“BitGN PAC Hub in <City>”**  
-Do not imply global sponsorship by BitGN.
+## Naming and branding
+Use the format: “BitGN PAC1 Hub in <City>”
+Please don’t present your hub as globally sponsored or “officially hosted” by BitGN beyond providing a venue for participation.
+
+## Local prizes (optional)
+Hubs may offer local prizes for hub participants or local winners (hub-managed). Any local prizes or sponsors are not sponsorship of the global BitGN challenge and should be clearly presented as hub-local only.
 
 ## Sponsor neutrality
-Hub sponsors may be visible on hub-controlled pages/materials, but do not receive visibility on the global BitGN platform.
+Local sponsors can be shown on hub-controlled materials/pages, but they do not get promotion on the global BitGN platform.
 
 ## Hub attribution (on-site check-in)
-Participants attribute to a hub by entering the hub code or scanning the hub QR at check-in. A participant may appear on multiple leaderboards (global + hub).
+At the hub on the day of the Challenge participants check in by entering your hub code or scanning your hub QR. Participants can appear on multiple leaderboards (global + your hub).
