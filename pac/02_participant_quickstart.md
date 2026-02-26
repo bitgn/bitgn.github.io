@@ -46,9 +46,9 @@
 All sessions still contribute to the **live leaderboard**.
 
 ## Where to get help
-- Status: check the status page first
-- Technical support: email
-- Updates + Q&A: newsletter (comments)
+- Status: check the Status page (https://status.bitgn.com/) first
+- Technical support: biz@abdullin.com
+- Updates + Q&A: Newsletter (https://bitgn.substack.com/) (comments)
 
 ## What to prepare before 11 Apr 2026
 - Agent runs end-to-end on practice tasks
